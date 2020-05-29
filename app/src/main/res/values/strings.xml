@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Pokemon Wiki</string>
+
+    <string name="height"><![CDATA[<small><strong>Height</strong></small><br><big>%1$s</big>]]></string>
+    <string name="weight"><![CDATA[<small><strong>Weight</strong></small><br><big>%1$s</big>]]></string>
+</resources>
